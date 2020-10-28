@@ -1,3 +1,7 @@
 *
 !*.*
 !*/
+!Makefile
+*.bmp
+.DS_Store
+*.dSYM
